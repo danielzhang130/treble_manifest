@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote name="danielzhang130" fetch="https://github.com/danielzhang130/" />
+	<project path="vendor/nova" name="nova"
+		remote="danielzhang130" revision="master" />
+
+</manifest>
