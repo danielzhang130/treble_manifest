@@ -72,4 +72,7 @@
 <remove-project name="platform/frameworks/opt/net/ims" />
 <project path="frameworks/opt/net/ims" name="platform_frameworks_opt_net_ims" remote="td" revision="android-14.0.0_r2-td" />
 
+<remove-project name="platform/packages/modules/vndk" />
+<project path="packages/modules/vndk" name="platform_packages_modules_vndk" remote="td" revision="android-14.0.0_r2-td" />
+
 </manifest>
