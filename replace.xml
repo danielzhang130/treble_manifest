@@ -80,4 +80,7 @@
 
 <remove-project name="platform/packages/modules/DeviceLock" />
 <project path="packages/modules/DeviceLock" name="platform_packages_modules_DeviceLock" remote="td" revision="android-14.0.0_r2-td" />
+
+<remove-project name="platform/packages/apps/Nfc" />
+<project path="packages/apps/Nfc" name="platform_packages_apps_Nfc" remote="td" revision="android-14.0.0_r2-td" />
 </manifest>
