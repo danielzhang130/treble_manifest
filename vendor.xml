@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="danielzhang130" fetch="https://github.com/danielzhang130/" />
+	<project path="vendor/treble_app" name="treble_app"
+		remote="danielzhang130" revision="master" />
+	<project path="vendor/nova" name="nova"
+		remote="danielzhang130" revision="master" />
+	<project path="vendor/clocks" name="aosp_clocks"
+		remote="danielzhang130" revision="master" />
+	<project path="vendor/fp3_wallpapers" name="fp3_wallpapers"
+		remote="danielzhang130" revision="master" />
+</manifest>
