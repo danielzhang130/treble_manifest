@@ -9,4 +9,6 @@
 		remote="danielzhang130" revision="master" />
 	<project path="vendor/fp3_wallpapers" name="fp3_wallpapers"
 		remote="danielzhang130" revision="master" />
+	<project path="vendor/bootanim" name="fp3_bootanim"
+		remote="danielzhang130" revision="master" />
 </manifest>
