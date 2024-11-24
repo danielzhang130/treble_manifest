@@ -11,4 +11,6 @@
 		remote="danielzhang130" revision="master" />
 	<project path="vendor/bootanim" name="fp3_bootanim"
 		remote="danielzhang130" revision="master" />
+	<project path="vendor/ims" name="ims"
+		remote="danielzhang130" revision="master" />
 </manifest>
