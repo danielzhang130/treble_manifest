@@ -2,6 +2,6 @@
 <manifest>
 	<remote name="gms" fetch="https://gitlab.com/danielzhang130/" />
 	<project path="vendor/partner_gms" name="gms-13"
-		remote="gms" revision="android-14" />
+		remote="gms" revision="android-15" />
 
 </manifest>
